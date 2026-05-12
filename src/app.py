@@ -38,7 +38,19 @@ activities = {
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
         "participants": ["john@mergington.edu", "olivia@mergington.edu"]
-    }
+    },
+        "Basketball": {
+            "description": "Team sport focusing on basketball skills and competitive games",
+            "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
+            "max_participants": 15,
+            "participants": ["alex@mergington.edu", "james@mergington.edu"]
+        },
+        "Tennis Club": {
+            "description": "Learn tennis techniques and participate in friendly matches",
+            "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:00 PM",
+            "max_participants": 10,
+            "participants": ["sarah@mergington.edu", "lucas@mergington.edu"]
+        }
 }
 
 
